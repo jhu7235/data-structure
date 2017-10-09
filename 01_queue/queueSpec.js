@@ -75,4 +75,3 @@ describe('A queue', function() {
   });
 
 });
-
