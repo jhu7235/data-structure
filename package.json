@@ -1,0 +1,9 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "description": "learn abstract data types and data structures through implementation and simulation",
+  "scripts": {
+    "test": "testem"
+  },
+  "author": "Jason Hu <jhu7235@gmail.com>",
+}
