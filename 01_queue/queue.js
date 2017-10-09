@@ -58,3 +58,4 @@ Queue.prototype.dequeue = function () {
 	this.top--;
 	return this.val.shift();
 }
+
