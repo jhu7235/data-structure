@@ -3,8 +3,6 @@ function LinkedList() {
 	this.tail = null
 }
 
-
-
 LinkedList.prototype.addToTail = function (val) {
 	if(this.head === null) {
 		this.tail = new Node(val);
